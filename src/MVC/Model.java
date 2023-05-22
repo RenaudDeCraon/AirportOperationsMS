@@ -39,11 +39,11 @@ public class Model {
 
         }
     }
-    File f = new File("/Users/umutmurat/Documents/database.txt");
-    File f1 = new File("/Users/umutmurat/Documents/flights.txt");
-    File f2 = new File("/Users/umutmurat/Documents/planes.txt");
-    File f3 = new File("/Users/umutmurat/Documents/hangars.txt");
-    File f4 = new File("/Users/umutmurat/Documents/runway.txt");
+    File f = new File("");
+    File f1 = new File("");
+    File f2 = new File("");
+    File f3 = new File("");
+    File f4 = new File("");
 private PrintStream ps;
 Scanner input = new Scanner(f);
 Scanner input1 = new Scanner(f1);
